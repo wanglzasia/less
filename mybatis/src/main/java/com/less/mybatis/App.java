@@ -1,4 +1,4 @@
-package com.less;
+package com.less.mybatis;
 
 /**
  * Hello world!
