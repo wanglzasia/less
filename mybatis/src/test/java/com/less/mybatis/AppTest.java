@@ -1,4 +1,4 @@
-package com.less;
+package com.less.mybatis;
 
 import static org.junit.Assert.assertTrue;
 
