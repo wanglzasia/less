@@ -22,7 +22,7 @@
     <spring-ver>5.1.3.RELEASE</spring-ver>
     <mybatis-ver>3.5.5</mybatis-ver>
     <mybatis-spring-ver>2.0.5</mybatis-spring-ver>
-    <mysql-ver>5.1.6</mysql-ver>
+    <mysql-ver>8.0.28</mysql-ver>
     <log4j-ver>1.2.12</log4j-ver>
   </properties>
 
